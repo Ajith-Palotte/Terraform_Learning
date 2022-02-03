@@ -1,0 +1,7 @@
+# Terraform Block
+terraform {
+  # required_version = "= 0.14.4" # will use the 0.14.4 version
+  #required_version = ">= 0.14.4" #vesrsion should be grather than or equal specified one
+  #required_version = "~> 0.14.4" # ~ says right most version component will be updated
+
+}
